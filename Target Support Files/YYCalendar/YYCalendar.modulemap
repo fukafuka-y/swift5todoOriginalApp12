@@ -1,6 +1,0 @@
-framework module YYCalendar {
-  umbrella header "YYCalendar-umbrella.h"
-
-  export *
-  module * { export * }
-}
